@@ -4,7 +4,7 @@ plugins {
 
 android {
     namespace = "com.example.listycity"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "com.example.listycity"
